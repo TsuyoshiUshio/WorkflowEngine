@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27924.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowEngine", "WorkflowEngine\WorkflowEngine.csproj", "{17DF5800-B1CF-4B8B-8CE2-9DFEA97DA01D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowEngine.Test", "WorkflowEngine.Test\WorkflowEngine.Test.csproj", "{32853D2B-AE52-4E81-ADED-7ED61957B391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17DF5800-B1CF-4B8B-8CE2-9DFEA97DA01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17DF5800-B1CF-4B8B-8CE2-9DFEA97DA01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17DF5800-B1CF-4B8B-8CE2-9DFEA97DA01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32853D2B-AE52-4E81-ADED-7ED61957B391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32853D2B-AE52-4E81-ADED-7ED61957B391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32853D2B-AE52-4E81-ADED-7ED61957B391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32853D2B-AE52-4E81-ADED-7ED61957B391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
